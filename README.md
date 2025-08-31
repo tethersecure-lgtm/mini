@@ -1,2 +1,1 @@
-# mini
-Tether Secure APP
+# Minimal Next.js proje — önce bunu deploy et, sonra genişlet.
